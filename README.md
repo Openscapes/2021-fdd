@@ -2,6 +2,8 @@
 
 Welcome to the 2021 FDD Openscapes Champions Cohort! This is a Cohort for Fisheries Dependent Data users (FDD). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
+<img align="right" src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="300">  
+
 ## Cohort Agendas
 
 We will meet as a Cohort via Zoom four times over two months for 1.5 hours, on alternating Fridays in September and October 2020. Additionally, we will schedule several GitHub Clinics before Call 2. 
