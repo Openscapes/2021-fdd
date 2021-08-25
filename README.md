@@ -2,7 +2,7 @@
 
 Welcome to the 2021 FDD Openscapes Champions Cohort! This is a Cohort for Fisheries Dependent Data users (FDD). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
-<img align="right" src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="300">  
+<img align="right" src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="450">  
 
 ## Cohort Agendas
 
@@ -17,7 +17,7 @@ Agenda links below are only accessible to Cohort participants (TODO), as they ar
 Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ----| ------------------|----------------------|--------------------------------
 09/17 | 1. Openscapes mindset and better science in less time | [mindset](#mindset), [better science in less time](#bsilt) | Seaside Chat (trailhead)
-TBD | > GitHub Clinic <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
+TBD | > GitHub Clinic <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, publishing, Issues
 10/01 | 2. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies) | Seaside Chat (code of conduct); Co-working
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](#communities), [coding strategies](#coding-strategies) | Seaside Chat (pathways); Co-working
 10/29 | 4. Pathways share |  | 
