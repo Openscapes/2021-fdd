@@ -1,3 +1,5 @@
+<a align="left" href="https://github.com/Openscapes/2021-fdd"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
+
 # 2021 FDD Openscapes Champions Cohort
 
 Welcome to the 2021 FDD Openscapes Champions Cohort! This is a Cohort for Fisheries Dependent Data users (FDD). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
