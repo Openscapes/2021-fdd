@@ -4,7 +4,7 @@
 
 Welcome to the 2021 FDD Openscapes Champions Cohort! This is a Cohort for Fisheries Dependent Data users (FDD). Learn more about Openscapes and the Champions Program: <https://openscapes.org>. 
 
-<img align="right" src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="450">   
+<a align="right" href="https://openscapes.org/champions"><img src="https://github.com/Openscapes/sortee-2021-keynote/blob/gh-pages/images/horst-champions-trailhead.png" width="450">   
 
 ## Cohort Agendas
 
