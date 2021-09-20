@@ -1,30 +1,13 @@
-# The power of open science: publishing with GitHub
+# Lindsay Gray Carlson
+## Mills Team - Gulf of Maine Research Institute
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
+I am a participant in the Openscapes FDD Cohort. I am a quantitative research associate at [Gulf of Maine Research Institute](https://gmri.org/) where I work in the [Integrated Systems Ecology Lab](https://gmri.org/commitments/science/integrated-systems-ecology/) with [Dr. Kathy Mills](https://gmri.org/our-approach/staff/kathy-mills/).
 
-We can make words **bold** or *italic*.
+I've been working on some exciting projects while at GMRI, including:
 
-## We can make headers.
+1. Trends in growth and survival of Carlin-tagged Atlantic salmon
+2. Evaluating community adaptive capacity to shifting species distributions based on commercial reliance, emerging species, and socio-economic indicators
+3. Methods to evaluate leading and trailing edges of species distributions
 
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
-
-1. bananas
-1. tamales
-1. cakes
-
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
-
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
-Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
-
-![](https://octodex.github.com/images/labtocat.png)
-
-## Your turn
-
-**Click the "edit pencil and play around – what else can you change or add?**
-
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
-
+You can learn more about my work by visiting my [website](https://lgcarlson.github.io/), reading my publications on ResearchGate, or checking out this cool blog about our salmon work! :) 
 
