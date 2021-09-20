@@ -12,3 +12,4 @@ I've been working on some exciting projects while at GMRI, including:
 You can learn more about my work by visiting my [website](https://lgcarlson.github.io/), reading my publications on [ResearchGate](https://www.researchgate.net/profile/Lindsay-Carlson), or checking out this [cool blog](https://gmri.org/stories/searching-clues-salmon-scales/) about our salmon work! :) 
 
 ![](https://gmri-org-production.s3.amazonaws.com/images/1245109517_3b64.width-800.jpg)
+*Photo credit: Mitch Simpson, Maine Department of Marine Resources*
