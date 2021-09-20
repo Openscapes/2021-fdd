@@ -1,6 +1,6 @@
 # The power of open science: publishing with GitHub
 
-Making my first change.
+Making my first change in *italics* and **bold**.
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
