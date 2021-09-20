@@ -23,7 +23,8 @@ visit the [ORP site](https://oysterrecovery.org/)
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png).  
-E-Reporting ![](https://oysterrecovery.org/wp-content/uploads/2015/04/19.jpe)
+##E-Reporting  
+![](https://oysterrecovery.org/wp-content/uploads/2015/04/19.jpe)
 
 ## Your turn
 
