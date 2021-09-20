@@ -18,6 +18,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
+https://github.com/MaC-Perez
 
 ![](https://octodex.github.com/images/labtocat.png)
 
