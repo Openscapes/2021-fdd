@@ -31,5 +31,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ***Self portrait***
 
-![](https://wonderfulengineering.com/wp-content/uploads/2014/09/star-wars-wallpaper-41-800x450.jpg)
-
+<img src="https://wonderfulengineering.com/wp-content/uploads/2014/09/star-wars-wallpaper-41-800x450.jpg" width="200">
