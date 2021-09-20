@@ -28,6 +28,9 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
 
-##Adding more!
+## Adding more!
+
+
+![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
 
