@@ -30,3 +30,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ## This is my header
 **TESTING BOLD** *testing italic*
+
+![](https://www.istockphoto.com/photo/squid-seafood-isolated-on-white-gm155156786-15894284)

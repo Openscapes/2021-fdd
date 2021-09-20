@@ -22,6 +22,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
+Image size cannot be directly edited in Markdown, but we can make changes using HTML. [W3schools](https://www.w3schools.com/html/default.asp) is a good resource for HTML.
+
 ![](https://octodex.github.com/images/labtocat.png)
 
 ![](https://media.fisheries.noaa.gov/styles/original/s3/2021-03/squid_illex_nb_w_0.png?VersionId=null&itok=Gms9hXDg)

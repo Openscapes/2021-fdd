@@ -27,6 +27,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 # bigger headers!
 ### smaller headers
 
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+[page I made](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/ScallopProgram/CURRENT_REPORTS/atlanticseascallop.html)
 
+***Self portrait***
 
+<img src="https://wonderfulengineering.com/wp-content/uploads/2014/09/star-wars-wallpaper-41-800x450.jpg" width="200">
