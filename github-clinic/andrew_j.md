@@ -32,3 +32,15 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Starting on the journey here (and trying out more things with images)
 
 ![](https://github.com/Openscapes/2021-fdd/blob/main/horst-champions-trailhead.png)
+
+## Math/Code chunk
+
+```{r cmd=true}
+a = 100/10
+b = 2+4
+
+a + b -> c
+
+c
+
+```
