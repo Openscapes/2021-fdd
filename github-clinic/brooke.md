@@ -26,6 +26,9 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://media.fisheries.noaa.gov/styles/original/s3/2021-03/squid_illex_nb_w_0.png?VersionId=null&itok=Gms9hXDg)
 
+![shrug-emoji](https://user-images.githubusercontent.com/77692015/134047292-c6e19e74-9302-4230-a969-4b89d7fa21b8.png)
+
+
 ## Your turn
 
 **Click the "edit pencil and play around – what else can you change or add?**
