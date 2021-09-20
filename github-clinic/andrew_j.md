@@ -31,6 +31,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Adding more!
 
 
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+![](https://www.fisheries.noaa.gov/themes/custom/noaa_components/images/150_Ribbon.png)
 
 
