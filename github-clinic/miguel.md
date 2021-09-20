@@ -15,7 +15,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 
 ## New header right here
 
-*italic words*
+*italic words right here*
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
