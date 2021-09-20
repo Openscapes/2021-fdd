@@ -20,7 +20,7 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 https://github.com/MaC-Perez
 
-![](https://octodex.github.com/images/labtocat.png)
+![](https://octodex.github.com/mona-the-rivetertocat)
 
 ## Your turn
 
