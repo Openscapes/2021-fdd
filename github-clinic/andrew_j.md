@@ -29,4 +29,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://www.fisheries.noaa.gov/themes/custom/noaa_components/images/150_Ribbon.png)
 
+## Starting on the journey here (and trying out more things with images)
 
+![](https://github.com/Openscapes/2021-fdd/blob/main/horst-champions-trailhead.png)
