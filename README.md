@@ -19,7 +19,7 @@ Agenda links below are only accessible to Cohort participants (*coming soon!*), 
 Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ----| ------------------|----------------------|--------------------------------
 09/17 | [1. Openscapes mindset](https://docs.google.com/document/d/1degvJXpLuYBhpNfo0uaVElXUu2G20SIxYoN1hbhGPfI/edit?usp=sharing) | [mindset](#mindset) | Seaside Chat (trailhead)
-TBD | > [GitHub Clinic](https://docs.google.com/document/d/16CZSVNZ4LvPiwkOthNRLIvh3NCnFlxsSv-6A3Kxl3kA/edit) <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, publishing, Issues
+09/20, 09/22 | > [GitHub Clinic](https://docs.google.com/document/d/16CZSVNZ4LvPiwkOthNRLIvh3NCnFlxsSv-6A3Kxl3kA/edit) <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, publishing, Issues
 10/01 | 2. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies) | Seaside Chat (code of conduct); Co-working
 10/15 | 3. Open communities and coding strategies for future us | [coding with communities](#communities), [coding strategies](#coding-strategies) | Seaside Chat (pathways); Co-working
 10/29 | 4. Pathways share |  | 
