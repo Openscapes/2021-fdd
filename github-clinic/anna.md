@@ -8,7 +8,7 @@ We can make words **bold** or *italic*.
 
 ### Image below
 
-![]()
+![](https://github.com/Openscapes/2021-fdd/blob/main/github-clinic/IMG_3111_HSoulen_ADJ.jpg)
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
