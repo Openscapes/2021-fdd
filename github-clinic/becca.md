@@ -24,6 +24,8 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
 
 ![](https://octodex.github.com/images/labtocat.png)
+
+Drag and drop an image into the .md and github will create a url for the content
 ![Small trawlers in Plymouth, MA](https://user-images.githubusercontent.com/13943538/134401774-7b58b487-857b-48a8-ba5f-a750e26de60e.jpg)
 
 ## Your turn
