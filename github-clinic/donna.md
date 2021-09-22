@@ -31,4 +31,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
 Adding an image from the internet
-![](https://twitter.com/usgcrp/status/1426201621890060289/photo/1)
+![](img/sea_turtle_reef_KK_900.jpg)
