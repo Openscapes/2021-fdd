@@ -6,7 +6,7 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
-### Image below
+### Cool Fish Pics
 
 ![](https://github.com/Openscapes/2021-fdd/blob/main/github-clinic/IMG_3111_HSoulen_ADJ.jpg)
 
