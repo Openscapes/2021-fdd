@@ -8,9 +8,9 @@ We can make words **bold** or *italic*.
 
 We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
 
-1. bananas
-1. tamales
-1. cakes
+1. Bananas
+1. Tomatoes
+1. Cakes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -26,5 +26,6 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the "edit pencil and play around – what else can you change or add?**
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+
 
 
