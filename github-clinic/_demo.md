@@ -25,7 +25,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://octodex.github.com/images/labtocat.png)
 
-'[](https://github.com/Openscapes/series/CR_image_update.jpg'
+![](https://github.com/KABurchard/series/blob/master/CR_image_update.jpg)
 
 
 ## Your turn
