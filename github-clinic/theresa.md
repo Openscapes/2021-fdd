@@ -1,30 +1,17 @@
 # The power of open science: publishing with GitHub
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
+## Hi, I'm Theresa Burnham :)
 
-We can make words **bold** or *italic*.
+I have a few non-science hobbies - 
 
-## We can make headers.
+1. making ice cream (*my best flavor so far is garden mint*)
+2. knitting
+3. gardening with my partner
 
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
+And my research is detailed on my [website](www.theresaluburnham.com). I also use [twitter](www.twitter.com/CALobsterLady) to talk shop, but I tend to include other things I'm interested in as well, like politics and memes. 
 
-1. bananas
-1. tamales
-1. cakes
+## This month, I've been doing field work in Maine. Here's a picture from Bailey Island, in Harpswell, Maine.
 
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
-
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
-Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
-
-![](https://octodex.github.com/images/labtocat.png)
-
-## Your turn
-
-**Click the "edit pencil and play around – what else can you change or add?**
-
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+![](https://github.com/TheresaBurnham/series/blob/master/img/maine.jpeg)
 
 
