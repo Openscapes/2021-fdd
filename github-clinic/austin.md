@@ -15,9 +15,16 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+2. does this go to number 4 or 2?
 
 Does this banana icon show up?
+
 ![image](https://user-images.githubusercontent.com/11558837/134401255-47824bb8-5ad4-4f1b-a38e-80368ad3086a.png)
+
+List try
+1. one
+2. two
+3. three
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
