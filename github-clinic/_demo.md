@@ -1,8 +1,7 @@
 # The power of open science: publishing with GitHub
 
-hello!
 
-This is important. 
+## This is important. 
 
 We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
 
@@ -15,6 +14,7 @@ We can make lists that are automagically numbered – *note that lists need a ca
 1. bananas
 1. tamales
 1. cakes
+1. potatoes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
