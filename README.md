@@ -46,6 +46,8 @@ These are the teams participating: please add any edits directly (we'll learn ho
 
 ## Openscapes team
 
+**Julie Lowndes**, Openscapes Co-Director, NCEAS, UCSB, is leading
+
 **Anna Holder**, environmental scientist at the California Water Boards, is assisting
 
 **Rachel Baum**, librarian at the UMassD Claire T. Carney Library, is assisting
