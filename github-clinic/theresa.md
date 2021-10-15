@@ -1,30 +1,16 @@
-# The power of open science: publishing with GitHub
+# About Me
 
-We can use GitHub to publish on the open web. GitHub supports Markdown text formatting. For example, with Markdown:
+I'm finishing my PhD in the Joint Doctoral Program in Ecology at UC Davis and San Diego State University and am working on a postdoc with Josh Stoll at the University of Maine. I just returned from a month of field work in Maine - it was so lovely!
 
-We can make words **bold** or *italic*.
-
-## We can make headers.
-
-We can make lists that are automagically numbered – *note that lists need a carriage return before list items!*
-
-1. bananas
-1. tamales
-1. cakes
-
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
-
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
-Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. *Note that from the browser, you'll need an image with an existing url.* 
-
-![](https://octodex.github.com/images/labtocat.png)
-
-## Your turn
-
-**Click the "edit pencil and play around – what else can you change or add?**
-
-![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
+![Is anything better than a working waterfront at sunset?](https://github.com/TheresaBurnham/Supporting/blob/main/maine.jpeg)
 
 
+## When I have free time
+
+I like spending time outside and with my family. My favorite things to do are 
+
+* make ice cream
+* take my puppy to the beach
+* knit hats for a winter that never comes to Monterey Bay, where I live
+
+### I'm so glad to be in this community with you all! :)
