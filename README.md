@@ -20,9 +20,9 @@ Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Call
 ----| ------------------|----------------------|--------------------------------
 09/17 | [1. Openscapes mindset](https://docs.google.com/document/d/1degvJXpLuYBhpNfo0uaVElXUu2G20SIxYoN1hbhGPfI/edit?usp=sharing) | [mindset](#mindset) | Seaside Chat (trailhead)
 09/20, 09/22 | > [GitHub Clinic](https://docs.google.com/document/d/16CZSVNZ4LvPiwkOthNRLIvh3NCnFlxsSv-6A3Kxl3kA/edit) <| [publishing](#github-pub), [project management](#github-issues) | Hands-on collaboration in the browser: editing, publishing, Issues
-10/01 | 2. Team culture and data strategies for future us | [team culture](#team-culture), [data strategies](#data-strategies) | Seaside Chat (code of conduct); Co-working
-10/15 | 3. Open communities and coding strategies for future us | [coding with communities](#communities), [coding strategies](#coding-strategies) | Seaside Chat (pathways); Co-working
-10/29 | 4. Pathways share |  | 
+10/01 | [2. Team culture and data strategies for future us](https://docs.google.com/document/d/17uaZcE7iJSN15gVnrz6TYgEP4EmClHeCriceZH1ogKQ/edit?usp=sharing) | [team culture](#team-culture), [data strategies](#data-strategies) | Seaside Chat (code of conduct); Co-working
+10/15 | [3. Open communities and coding strategies for future us](https://docs.google.com/document/d/11JeWBF1l71HI8XgE1dFf-FPlw6Ok6ynCevUmzrwaT_I/edit?usp=sharing) | [coding with communities](#communities), [coding strategies](#coding-strategies) | Seaside Chat (pathways); Co-working
+10/29 | [4. Pathways share](https://docs.google.com/document/d/1b24OdbT_cXwbIGM2q4_oQNJ__3879llvdvh0XF3LzMA/edit?usp=sharing) |  | 
 
 ## Participating teams
 
